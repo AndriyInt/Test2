@@ -1,5 +1,7 @@
 README
 
+alpha 0.4
+
 alpha 0.3
 * added feature two
 
