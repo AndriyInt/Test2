@@ -51,8 +51,7 @@ public final class UIKeytool extends AppMainUIAbs
     {
         try
         {
-
-            
+            // For loop
             for (LookAndFeelInfo lafInfo: UIManager.getInstalledLookAndFeels())
             {
                 if ("Nimbus".equals(lafInfo.getName()))
