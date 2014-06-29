@@ -1,5 +1,8 @@
 README
 
+alpha 0.6
+  * docs added
+
 alpha 0.5
   * line endings normalized to LF
 
