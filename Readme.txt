@@ -1,5 +1,8 @@
 README
 
+alpha 0.5
+  * line endings normalized to LF
+
 alpha 0.4
 
 alpha 0.3
